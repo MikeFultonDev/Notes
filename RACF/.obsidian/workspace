@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "72ddf02735e7c275",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaeb91399e450155",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Users/Add (Create) User.md",
+            "mode": "source"
+          }
+        },
+        "group": "2dec925f0584e2d9"
+      },
+      {
+        "id": "8aa82cfdffd2654d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Users/Add (Create) User.md",
+            "mode": "preview"
+          }
+        },
+        "group": "2dec925f0584e2d9"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42ae89ddff472dc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "872e38f4c56ecc73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490ddcb8b9e9942f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "623cdee8c508b0e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214
+  },
+  "right": {
+    "id": "054131968af54176",
+    "type": "split",
+    "children": [
+      {
+        "id": "610b063ee1302641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24ddeb2f1f4d09b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Users/Add (Create) User.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Users/Add (Create) User.md",
+    "Add (Create) User.md",
+    "General Resources/Class Refresh.md",
+    "General Resources/Determine RACF settings.md",
+    "General Resources/Define a profile.md",
+    "General Resources/Delete a profile.md",
+    "General Resources/List a Class.md",
+    "Untitled.md",
+    "Class Refresh.md",
+    "Define a profile.md"
+  ]
+}
